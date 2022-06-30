@@ -2,7 +2,7 @@
 
 I have always wanted to conduct some P5 JS workshops. This repo is code related to that.
 
-Find more details on our [Workshop Website](https://sandkdesignstudio.in/p5-js-workshop/). Than you.
+Find more details on our [Workshop Website](https://sandkdesignstudio.in/p5-js-workshop/). Thank you.
 
 ![image info](RandomWalk_October4th2021_800px.png)
 
